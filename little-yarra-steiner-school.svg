@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 49.790003 42.670017"
+   version="1.1"
+   width="49.790001"
+   height="42.670017"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs25">
+    <style
+       id="style2">.cls-1{fill:url(#linear-gradient);}.cls-2{fill:url(#linear-gradient-2);}.cls-3{fill:url(#linear-gradient-3);}.cls-22,.cls-4{fill:#8b0e04;}.cls-5{font-size:28.38px;fill:#8a7967;font-family:CronosPro-Regular, Cronos Pro;}.cls-6{letter-spacing:0em;}.cls-7{letter-spacing:0em;}.cls-8{letter-spacing:-0.01em;}.cls-9{letter-spacing:0em;}.cls-10{letter-spacing:0em;}.cls-11{letter-spacing:-0.07em;}.cls-12{letter-spacing:0em;}.cls-13{letter-spacing:0em;}.cls-14{letter-spacing:0em;}.cls-15{letter-spacing:0em;}.cls-16{letter-spacing:-0.01em;}.cls-17{letter-spacing:0em;}.cls-18{letter-spacing:-0.01em;}.cls-19{letter-spacing:0.02em;}.cls-20{letter-spacing:0em;}.cls-21{letter-spacing:0.01em;}.cls-22{font-size:16.17px;font-family:CronosPro-Italic, Cronos Pro;font-style:italic;}.cls-23{letter-spacing:-0.09em;}.cls-24{letter-spacing:-0.01em;}.cls-25{letter-spacing:-0.02em;}.cls-26{letter-spacing:0em;}.cls-27{letter-spacing:-0.05em;}.cls-28{letter-spacing:0em;}.cls-29{letter-spacing:0em;}.cls-30{letter-spacing:0em;}.cls-31{letter-spacing:0em;}.cls-32{letter-spacing:0em;}.cls-33{letter-spacing:0em;}.cls-34{letter-spacing:-0.01em;}.cls-35{letter-spacing:0.01em;}.cls-36{letter-spacing:0em;}.cls-37{letter-spacing:-0.01em;}.cls-38{letter-spacing:0em;}.cls-39{letter-spacing:-0.05em;}.cls-40{letter-spacing:-0.01em;}.cls-41{letter-spacing:-0.01em;}.cls-42{letter-spacing:0em;}.cls-43{letter-spacing:0.01em;}.cls-44{letter-spacing:0.01em;}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="43.380001"
+       y1="10.77"
+       x2="60.5"
+       y2="41.220001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-15.68,-18.12)">
+      <stop
+         offset="0"
+         stop-color="#d9d0c6"
+         id="stop4" />
+      <stop
+         offset="0.61"
+         stop-color="#aa9c8d"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#8a7967"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="77.099998"
+       y1="51.700001"
+       x2="39.32"
+       y2="56.049999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-15.68,-18.12)">
+      <stop
+         offset="0"
+         stop-color="#d9d0c6"
+         id="stop11" />
+      <stop
+         offset="1"
+         stop-color="#8a7967"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="18.23"
+       y1="53.509998"
+       x2="35.900002"
+       y2="36.110001"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-15.68,-18.12)">
+      <stop
+         offset="0"
+         stop-color="#d9d0c6"
+         id="stop16" />
+      <stop
+         offset="0.09"
+         stop-color="#d1c8bd"
+         id="stop18" />
+      <stop
+         offset="0.71"
+         stop-color="#9e8f7f"
+         id="stop20" />
+      <stop
+         offset="1"
+         stop-color="#8a7967"
+         id="stop22" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title27">L.Y.S.S_Logo_portrait for web</title>
+  <path
+     class="cls-1"
+     d="m 49.79,31.08 c 0,-2 -0.08,-4 -0.23,-6 A 74.66,74.66 0 0 0 43.07,0 74.64,74.64 0 0 0 24.83,7.45 c 1.42,1.08 2.78,2.18 4,3.29 v 0 l 0.19,0.17 0.56,0.5 0.54,0.49 c 0,0 0.18,0.16 0.17,0.17 v 0 a 77.62,77.62 0 0 1 12.72,15.2 v 0 l 0.1,0.17 0.32,0.51 0.49,0.78 0.16,0.25 v 0 a 76.72,76.72 0 0 1 5.24,10.35 76.89,76.89 0 0 0 0.47,-8.25 z"
+     id="path29"
+     style="fill:url(#linear-gradient)" />
+  <path
+     class="cls-2"
+     d="m 14.32,38.05 a 74.62,74.62 0 0 0 25.9,4.62 75.22,75.22 0 0 0 8.1,-0.47 74.68,74.68 0 0 0 -6.12,-12.51 76.6,76.6 0 0 1 -25.44,4.49 h -1.83 a 2,2 0 0 1 -0.35,0 v 0 a 77.58,77.58 0 0 1 -11,-1 73.79,73.79 0 0 0 10.74,4.87 z"
+     id="path31"
+     style="fill:url(#linear-gradient-2)" />
+  <path
+     class="cls-3"
+     d="M 15.4,32.19 A 77,77 0 0 1 27.59,12.3 C 26.12,11 24.59,9.75 23,8.58 A 75.93,75.93 0 0 0 0,30.41 l 0.73,0.17 a 75.84,75.84 0 0 0 14.67,1.61 z"
+     id="path33"
+     style="fill:url(#linear-gradient-3)" />
+  <path
+     class="cls-4"
+     d="M 29.16,17.23 A 47.73,47.73 0 0 0 21.63,29.4 48,48 0 0 0 37.08,26.65 47.7,47.7 0 0 0 29.16,17.23 Z"
+     id="path35" />
+  <metadata
+     id="metadata238">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>L.Y.S.S_Logo_portrait for web</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

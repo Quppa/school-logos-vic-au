@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 222.66001 231.34"
+   version="1.1"
+   id="svg64"
+   width="222.66"
+   height="231.34"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata68">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>nossal-logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .a {
+        fill: #f47b29;
+      }
+
+      .b {
+        fill: #877b77;
+      }
+
+      .c {
+        fill: #febe10;
+      }
+
+      .d {
+        fill: #aa7c14;
+      }
+    </style>
+  </defs>
+  <title
+     id="title6">nossal-logo</title>
+  <g
+     id="g28"
+     transform="translate(-141.45)">
+    <g
+       id="g16">
+      <polygon
+         class="a"
+         points="282.59,92.98 299.96,62.94 256.86,97.15 "
+         id="polygon8" />
+      <polygon
+         class="b"
+         points="284.73,173.74 303.24,173.74 364.11,79.8 256.86,97.15 244.44,122.86 "
+         id="polygon10" />
+      <polygon
+         class="c"
+         points="219.84,173.74 265.55,231.34 284.73,173.74 "
+         id="polygon12" />
+      <polygon
+         class="d"
+         points="219.84,173.74 284.73,173.74 244.43,122.86 "
+         id="polygon14" />
+    </g>
+    <g
+       id="g26">
+      <polygon
+         class="a"
+         points="239.21,72.04 251.93,39.75 251.95,94.77 "
+         id="polygon18" />
+      <polygon
+         class="b"
+         points="174.63,120.58 163.12,106.08 198.83,0 251.95,94.77 239.54,120.58 "
+         id="polygon20" />
+      <polygon
+         class="c"
+         points="214.96,171.41 141.45,171.42 174.63,120.58 "
+         id="polygon22" />
+      <polygon
+         class="d"
+         points="214.96,171.41 174.63,120.58 239.54,120.58 "
+         id="polygon24" />
+    </g>
+  </g>
+  <g
+     id="g62"
+     transform="translate(-141.45)" />
+</svg>
